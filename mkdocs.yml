@@ -1,29 +1,37 @@
-site_name: My Medicine Notes
-site_url: https://yourusername.github.io/medicine
+site_name: McKenna Medicine Notes
+site_url: https://mckenna-notes.github.io/Medicine/
 
 theme:
   name: material
   palette:
     - scheme: default
-      primary: teal
-      accent: teal
+      primary: indigo
+      accent: blue
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
-      primary: teal
-      accent: teal
+      primary: indigo
+      accent: blue
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+  font:
+    text: Inter
+    code: Roboto Mono
   features:
-    - navigation.tabs
-    - navigation.sections
     - navigation.top
-    - navigation.expand
+    - navigation.indexes
+    - navigation.footer
+    - navigation.path
+    - toc.follow
     - search.highlight
     - search.suggest
     - content.tooltips
+    - content.code.copy
+
+extra_css:
+  - stylesheets/extra.css
 
 plugins:
   - search
@@ -32,9 +40,57 @@ markdown_extensions:
   - admonition
   - tables
   - attr_list
+  - md_in_html
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: index.md
+  - Body Systems:
+    - Overview: Body Systems/index.md
+    - Cardiology:
+      - Overview: Body Systems/01-Cardiology/index.md
+      - Heart Failure: Body Systems/01-Cardiology/Heart-Failure.md
+    - Pulmonology:
+      - Overview: Body Systems/02-Pulmonology/index.md
+      - Overview of Pulmonary Infectious Disease: "Body Systems/02-Pulmonology/Overview of Pulmonary Infectious Disease.md"
+    - Renal:
+      - Overview: Body Systems/03-Renal/index.md
+      - Acid-Base Abnormalities: Body Systems/03-Renal/Acid-Base-Abnormalities.md
+    - Gastroenterology: Body Systems/04-Gastroenterology/index.md
+    - Neurology: Body Systems/05-Neurology/index.md
+    - MSK / Rheumatology: "Body Systems/06 -MSK:Rheumatology/index.md"
+    - Genitourinary: Body Systems/07-GU/index.md
+  - ER:
+    - Overview: ER/index.md
+    - Resources:
+      - Overview: ER/Resources/index.md
+      - Useful ED Resource Links: "ER/Resources/Useful ED Resource Links.md"
+    - Note Templates: ER/Note-Templates/index.md
+    - APT Common Complaints: ER/APT-Common-Complaints/index.md
+  - Pharmacology:
+    - Overview: Pharmacology/index.md
+    - Antibiotics:
+      - Overview: Pharmacology/Antibiotics/index.md
+      - Full Reference: Pharmacology/Antibiotics/Antibiotics-Overview.md
+  - Clinical:
+    - Overview: Clinical/index.md
+    - Diagnostics:
+      - Overview: Clinical/Diagnostics/index.md
+      - Labs:
+        - Electrolytes:
+          - Sodium: Clinical/Diagnostics/Labs/electrolytes/sodium.md
+          - Potassium: Clinical/Diagnostics/Labs/electrolytes/potassium.md
+          - Calcium: Clinical/Diagnostics/Labs/electrolytes/calcium.md
+          - Magnesium: Clinical/Diagnostics/Labs/electrolytes/magnesium.md
+          - Phosphate: Clinical/Diagnostics/Labs/electrolytes/phosphate.md
+          - Chloride & Bicarb: Clinical/Diagnostics/Labs/electrolytes/chloride-and-bicarb.md
+    - Epidemiology: Clinical/Epidemiology.md
+    - Electrolyte Reference: https://mckenna-notes.github.io/Medicine/reference/electrolytes.html
