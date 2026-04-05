@@ -93,4 +93,5 @@ nav:
           - Phosphate: Clinical/Diagnostics/Labs/electrolytes/phosphate.md
           - Chloride & Bicarb: Clinical/Diagnostics/Labs/electrolytes/chloride-and-bicarb.md
     - Epidemiology: Clinical/Epidemiology.md
+    - Shock: Clinical/Shock.md
     - Electrolyte Reference: https://mckenna-notes.github.io/Medicine/reference/electrolytes.html
