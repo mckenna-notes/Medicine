@@ -95,4 +95,18 @@ nav:
     - Epidemiology: Clinical/Epidemiology.md
     - Shock: Clinical/Shock.md
     - Sepsis: Clinical/Sepsis.md
+    - ICU Notes:
+      - 2026 Sepsis Guidelines: Clinical/ICU-Notes/2026-Sepsis-Guidelines.md
+      - Delirium: Clinical/ICU-Notes/Delirium.md
+      - Agitation: Clinical/ICU-Notes/Agitation.md
+      - ICP: Clinical/ICU-Notes/ICP.md
+      - Breathing Support: Clinical/ICU-Notes/Breathing-Support.md
+      - NIPPV: Clinical/ICU-Notes/NIPPV.md
+      - Ventilators: Clinical/ICU-Notes/Ventilators.md
+      - Vasopressors: Clinical/ICU-Notes/Vasopressors.md
+      - IV Contrast AKI: Clinical/ICU-Notes/IV-Contrast-AKI.md
+      - Spinal Cord Pathology and Syndromes: Clinical/ICU-Notes/Spinal-Cord-Pathology.md
+      - ICU Presentation: Clinical/ICU-Notes/ICU-Presentation.md
+      - ICU GI Prophylaxis: Clinical/ICU-Notes/ICU-GI-Prophylaxis.md
+      - TBI: Clinical/ICU-Notes/TBI.md
     - Electrolyte Reference: https://mckenna-notes.github.io/Medicine/reference/electrolytes.html
