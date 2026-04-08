@@ -6,6 +6,8 @@
 
 ## Types
 
+![TBI hemorrhage overview](tbi-images/tbi-overview.png)
+
 ### Epidural Hematoma (EDH)
 
 - **Definition:** Bleeding between the dura mater and skull
