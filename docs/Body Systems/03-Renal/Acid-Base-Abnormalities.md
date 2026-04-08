@@ -15,7 +15,7 @@
 2. **Determine Winter's** (underlying additional respiratory derangement)
 3. **Determine Delta-Delta (ΔAG / ΔBicarb)**
 
-$$\frac{\text{Anion Gap} - 12}{\text{Bicarb} - 24}$$
+**(Anion Gap − 12) / (Bicarb − 24)**
 
 | Result | Interpretation |
 |---|---|
@@ -53,7 +53,7 @@ $$\frac{\text{Anion Gap} - 12}{\text{Bicarb} - 24}$$
 
 ### Determining Prior Bicarb
 
-$$HCO_3^{before} = HCO_3^{now} + (AG_{now} - AG_{normal})$$
+**HCO₃(before) = HCO₃(now) + (AG(now) − AG(normal))**
 
 Can help identify underlying metabolic derangements prior to the current acute disorder.
 
@@ -63,7 +63,7 @@ Can help identify underlying metabolic derangements prior to the current acute d
 
 ### Bicarbonate Buffer System (Le Chatelier's Principle)
 
-$$CO_2 + H_2O \rightleftharpoons H_2CO_3 \rightleftharpoons H^+ + HCO_3^-$$
+**CO₂ + H₂O ⇌ H₂CO₃ ⇌ H⁺ + HCO₃⁻**
 
 - **Metabolic acidosis** (↑ H⁺) → left shift → ↑ CO₂ → compensatory hyperventilation
 - **Metabolic alkalosis** (↑ HCO₃⁻) → right shift → ↓ CO₂ → compensatory hypoventilation + urine bicarb excretion
