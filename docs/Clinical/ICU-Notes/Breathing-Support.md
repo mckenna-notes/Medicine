@@ -19,11 +19,11 @@
 
 ## Oxygen Delivery (DO₂)
 
-$$DO_2 = CaO_2 \times CO$$
+**DO₂ = CaO₂ × CO**
 
 ### Cardiac Output (CO)
 
-$$CO = HR \times SV$$
+**CO = HR × SV**
 
 **Factors that Increase Stroke Volume:**
 
@@ -47,9 +47,9 @@ Arterial oxygen content is a function of three variables:
 
 Oxygen partially dissolves in plasma, calculated as: **0.003 × PaO₂**
 
-$$CaO_2 = (Hgb \times SaO_2 \times 1.34) + (PaO_2 \times 0.003)$$
+**CaO₂ = (Hgb × SaO₂ × 1.34) + (PaO₂ × 0.003)**
 
-$$DO_2 = CO \times (Hgb \times SaO_2 \times 1.34 + PaO_2 \times 0.003)$$
+**DO₂ = CO × (Hgb × SaO₂ × 1.34 + PaO₂ × 0.003)**
 
 ---
 

@@ -38,7 +38,7 @@ VO₂  |       /‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
 ### Core Formula
 
-$$VO_2 > CO \times CaO_2$$
+**VO₂ > CO × CaO₂**
 
 ---
 
@@ -69,9 +69,9 @@ $$VO_2 > CO \times CaO_2$$
 | Type | Mortality |
 |---|---|
 | *Distributive Shock* | 20–50% |
-| &nbsp;&nbsp;&nbsp;↳ *Septic Shock* | 40–50% |
-| &nbsp;&nbsp;&nbsp;↳ *Neurogenic Shock* | 13–23% |
-| &nbsp;&nbsp;&nbsp;↳ *Endocrine Shock (Adrenal Crisis)* | 6% |
+| — *Septic Shock* | 40–50% |
+| — *Neurogenic Shock* | 13–23% |
+| — *Endocrine Shock (Adrenal Crisis)* | 6% |
 | *Cardiogenic Shock* | **50–75% (Highest Risk)** |
 | *Hypovolemic Shock* | 20–37% |
 
@@ -107,7 +107,9 @@ The treatment of shock has three objectives:
 
 ### Full Treatment Framework
 
-$$VO_2 > \underbrace{(HR \times SV)}_{\text{CO}} \times \underbrace{(1.34 \times Hgb \times SaO_2 + 0.003 \times PaO_2)}_{CaO_2}$$
+**VO₂ > (HR × SV) × (1.34 × Hgb × SaO₂ + 0.003 × PaO₂)**
+
+*(where HR × SV = CO, and 1.34 × Hgb × SaO₂ + 0.003 × PaO₂ = CaO₂)*
 
 **Decrease VO₂ (O₂ Consumption):**
 
@@ -139,7 +141,7 @@ $$VO_2 > \underbrace{(HR \times SV)}_{\text{CO}} \times \underbrace{(1.34 \times
 
 ### Vasopressors and Vasoactives
 
-$$BP = CO \times SVR = (HR \times SV) \times SVR$$
+**BP = CO × SVR = (HR × SV) × SVR**
 
 | Receptor | **β₁** | **D₁, D₂, D₄, D₅** | **α₁** | **V₁** | **β₂** | **Others** |
 |---|---|---|---|---|---|---|
