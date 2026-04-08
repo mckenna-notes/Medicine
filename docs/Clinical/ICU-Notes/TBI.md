@@ -16,6 +16,8 @@
 !!! tip "Pearl"
     Associated with **"lucid interval"** — initial LOC followed by a period of consciousness, then subsequent coma.
 
+![EDH CT scan](tbi-images/tbi-image-1.png)
+
 ---
 
 ### Subdural Hematoma (SDH)
@@ -28,6 +30,8 @@
 !!! tip "Pearl"
     - Chronic SDH is common in elderly after falls
     - Classic mechanism: acceleration / deceleration injury
+
+![SDH CT scan](tbi-images/tbi-image-2.png)
 
 ---
 
@@ -42,6 +46,8 @@
 !!! tip "Pearls"
     - Aneurysmal bleeds = **"thunderclap" headache**, "worst headache of my life"
     - **Xanthochromia** of CSF is pathognomonic
+
+![SAH CT scan](tbi-images/tbi-image-3.png)
 
 ---
 
